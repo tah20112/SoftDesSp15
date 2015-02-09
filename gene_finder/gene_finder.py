@@ -184,7 +184,7 @@ def longest_ORF(dna):
     'ATGCTACATTCGCAT'
     >>> longest_ORF("ATGCGAATATGGTAAGGATCCCATCATAGATCAAA")
     'ATGATGGGATCCTTACCATATTCGCAT'
-    >>>longest_ORF('')
+    >>> longest_ORF('')
     ''
     """
 
@@ -263,11 +263,12 @@ def gene_finder(dna):
         if len(frame) > threshold:
             protein = coding_strand_to_AA(frame)
             allProteins.append(protein)
-    print allProteins
+    for i in range(len(allProteins)):
+        print allProteins[i]
     return allProteins
 
 if __name__ == "__main__":
     import doctest
     doctest.testmod()
-    #dna = load_seq("./data/X73525.fa")
-    #gene_finder(dna)
+    dna = load_seq("./data/X73525.fa")
+    gene_finder(dna)
