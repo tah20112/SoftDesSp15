@@ -230,6 +230,7 @@ def coding_strand_to_AA(dna):
         'MPA'
     """
 
+<<<<<<< HEAD
     # More test cases would really just test the dictionary, wich I don't plan to do
     
     lastSlice = len(dna)-3
@@ -245,12 +246,13 @@ def coding_strand_to_AA(dna):
 def gene_finder(dna):
     """ Returns the amino acid sequences coded by all genes that have an ORF
         larger than the specified threshold.
+=======
+def gene_finder(dna):
+    """ Returns the amino acid sequences that are likely coded by the specified dna
+>>>>>>> 922a6e32441860ab0413630f74531e6e47a16a7c
         
         dna: a DNA sequence
-        threshold: the minimum length of the ORF for it to be considered a valid
-                   gene.
-        returns: a list of all amino acid sequences whose ORFs meet the minimum
-                 length specified.
+        returns: a list of all amino acid sequences coded by the sequence dna.
     """
 
     # I don't know how I could write a doctest for this
