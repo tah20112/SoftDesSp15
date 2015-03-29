@@ -1,0 +1,220 @@
+(lp0
+Vcurl 7.41.0-1 x86_64 http://t.co/lX2zzF2zS4 #Archlinux
+p1
+aVcurl 7.41.0-1 i686 http://t.co/BxdLAt2D5l #Archlinux
+p2
+aVlibibus 1.5.10-1 x86_64 http://t.co/ucTZYELte0 #Archlinux
+p3
+aVfreerdp 1.2.0_beta1+android9-2 x86_64 http://t.co/6CJ2QJLa54 #Archlinux
+p4
+aVfreerdp 1.2.0_beta1+android9-2 i686 http://t.co/NFo34lfJt9 #Archlinux
+p5
+aVperl-test-trap 0.3.2-1 any http://t.co/VvOXAlNZpn #Archlinux
+p6
+aVkiconthemes 5.7.0-2 x86_64 http://t.co/89VTgwk9te #Archlinux
+p7
+aVkiconthemes 5.7.0-2 i686 http://t.co/okbuBP1Nlk #Archlinux
+p8
+aVFix i2c_hid i2c-SYN1B7F:01: failed to retrieve report from device. [ArchLinux] http://t.co/2uVdMD3IRl #ArchLinux #i2c_hid #Synaptic
+p9
+aVfreecad 0.14.3702-5 x86_64 http://t.co/Qs2CmE2zzE #Archlinux
+p10
+aVlibuv 1.4.1-1 x86_64 http://t.co/OsbmBloYsq #Archlinux
+p11
+aVsnapper 0.2.6-1 x86_64 http://t.co/alvrsfYpFz #Archlinux
+p12
+aVFinally moved over to #archlinux
+p13
+aVnftables 1:0.4-4 x86_64 http://t.co/uZMI0ny1G0 #Archlinux
+p14
+aVnftables 1:0.4-4 i686 http://t.co/DPCox02LWa #Archlinux
+p15
+aVbluedevil-frameworks 5.2.1-1 x86_64 http://t.co/37JA1Wt2cU #Archlinux
+p16
+aVlibbluedevil-frameworks 5.2.1-1 x86_64 http://t.co/18aOcoQ1EX #Archlinux
+p17
+aVbluedevil-frameworks 5.2.1-1 i686 http://t.co/arJIUqNGLP #Archlinux
+p18
+aVkwayland 5.2.1-1 x86_64 http://t.co/PFIH4E7ydv #Archlinux
+p19
+aVbaloo-frameworks 5.6.1-1 x86_64 http://t.co/aEtWof036d #Archlinux
+p20
+aVkwayland 5.2.1-1 i686 http://t.co/LtonsFjhLT #Archlinux
+p21
+aVbaloo-frameworks 5.6.1-1 i686 http://t.co/wl2IayjWgV #Archlinux
+p22
+aVpowerdevil 5.2.1-1 x86_64 http://t.co/vffchl8NQq #Archlinux
+p23
+aVplasma-workspace 5.2.1-1 x86_64 http://t.co/1VGw5q5KJz #Archlinux
+p24
+aVkwrited 5.2.1-1 x86_64 http://t.co/Kz9FRNZE3B #Archlinux
+p25
+aVplasma-workspace 5.2.1-1 i686 http://t.co/P5SxGxDQXU #Archlinux
+p26
+aVkwrited 5.2.1-1 i686 http://t.co/NABX5db5Gc #Archlinux
+p27
+aVpolkit-kde-frameworks 5.2.1-1 x86_64 http://t.co/sUGnayFbda #Archlinux
+p28
+aVdrkonqi 5.2.1-1 x86_64 http://t.co/mA7jGexCwM #Archlinux
+p29
+aVpolkit-kde-frameworks 5.2.1-1 i686 http://t.co/wPAI9WyRx3 #Archlinux
+p30
+aVoxygen-cursors 5.2.1-1 x86_64 http://t.co/IjX1SDY6Wk #Archlinux
+p31
+aVmilou 5.2.1-1 x86_64 http://t.co/BrAyQ3nd26 #Archlinux
+p32
+aVkscreen-frameworks 5.2.1-1 x86_64 http://t.co/nQaN0YazoI #Archlinux
+p33
+aVkinfocenter 5.2.1-1 x86_64 http://t.co/hQaMVyMITL #Archlinux
+p34
+aVkscreen-frameworks 5.2.1-1 i686 http://t.co/DVzJVtiLTx #Archlinux
+p35
+aVksysguard 5.2.1-1 x86_64 http://t.co/QgPLmUBNBA #Archlinux
+p36
+aVkinfocenter 5.2.1-1 i686 http://t.co/mju4xNzaCW #Archlinux
+p37
+aVkdeplasma-addons-frameworks 5.2.1-1 x86_64 http://t.co/ZUX5gDlNDL #Archlinux
+p38
+aVkdeplasma-addons-frameworks 5.2.1-1 i686 http://t.co/BTECEyNiBA #Archlinux
+p39
+aVplasma-nm 5.2.1-1 x86_64 http://t.co/ritnKEr7FY #Archlinux
+p40
+aVsystemsettings 5.2.1-1 x86_64 http://t.co/TYP9JIWrEM #Archlinux
+p41
+aVlibmm-qt5 5.2.1-1 x86_64 http://t.co/m6cwPqFrnC #Archlinux
+p42
+aVpython2-keyring 5.2.1-1 any http://t.co/1X9XAgHCBK #Archlinux
+p43
+aVpython-keyring 5.2.1-1 any http://t.co/fV6wtdRD9F #Archlinux
+p44
+aVpython-keyring 5.2-1 any http://t.co/ClKMR2NfTe #Archlinux
+p45
+aVpython2-keyring 5.2-1 any http://t.co/S6ZprmxTzC #Archlinux
+p46
+aVthunderbird 31.5.0-1 x86_64 http://t.co/KpnccRBVkh #Archlinux
+p47
+aVthunderbird 31.5.0-1 i686 http://t.co/qxPKdxxl6d #Archlinux
+p48
+aVthunderbird-i18n-id 31.5.0-1 any http://t.co/xtBJ1UDZn5 #Archlinux
+p49
+aVthunderbird-i18n-gd 31.5.0-1 any http://t.co/QUc9Y5i0n8 #Archlinux
+p50
+aVthunderbird-i18n-rm 31.5.0-1 any http://t.co/hEyETRtvII #Archlinux
+p51
+aVthunderbird-i18n-ta-lk 31.5.0-1 any http://t.co/gaUX8AjphY #Archlinux
+p52
+aVthunderbird-i18n-ar 31.5.0-1 any http://t.co/B9sDS4k0KE #Archlinux
+p53
+aVthunderbird-i18n-fy-nl 31.5.0-1 any http://t.co/z3CAs5cwk1 #Archlinux
+p54
+aVthunderbird-i18n-cs 31.5.0-1 any http://t.co/qSSg4Bdk9S #Archlinux
+p55
+aVthunderbird-i18n-nb-no 31.5.0-1 any http://t.co/gaWYmevTL1 #Archlinux
+p56
+aVthunderbird-i18n-de 31.5.0-1 any http://t.co/7fCglWENdx #Archlinux
+p57
+aVthunderbird-i18n-es-es 31.5.0-1 any http://t.co/jwF04awD7G #Archlinux
+p58
+aVthunderbird-i18n-gl 31.5.0-1 any http://t.co/wxwWdRX5fl #Archlinux
+p59
+aVthunderbird-i18n-eu 31.5.0-1 any http://t.co/ZvigclRnLE #Archlinux
+p60
+aVthunderbird-i18n-da 31.5.0-1 any http://t.co/qvHPpqdJ8n #Archlinux
+p61
+aVthunderbird-i18n-tr 31.5.0-1 any http://t.co/EClv2Op0G7 #Archlinux
+p62
+aVthunderbird-i18n-fr 31.5.0-1 any http://t.co/mZjSV79WiA #Archlinux
+p63
+aVthunderbird-i18n-ro 31.5.0-1 any http://t.co/uvIo1RXzgc #Archlinux
+p64
+aVthunderbird-i18n-si 31.5.0-1 any http://t.co/GJkAXAnLeB #Archlinux
+p65
+aVthunderbird-i18n-ca 31.5.0-1 any http://t.co/ErIWbh7LUg #Archlinux
+p66
+aVthunderbird-i18n-sl 31.5.0-1 any http://t.co/eN2FADCPrV #Archlinux
+p67
+aVthunderbird-i18n-nl 31.5.0-1 any http://t.co/TiJvsDKVk1 #Archlinux
+p68
+aVthunderbird-i18n-ga-ie 31.5.0-1 any http://t.co/uiV9BkFR7q #Archlinux
+p69
+aVthunderbird-i18n-uk 31.5.0-1 any http://t.co/W3hjGMr91I #Archlinux
+p70
+aVthunderbird-i18n-br 31.5.0-1 any http://t.co/GTd55fvpPW #Archlinux
+p71
+aVthunderbird-i18n-it 31.5.0-1 any http://t.co/aWouQVBEjc #Archlinux
+p72
+aVthunderbird-i18n-ko 31.5.0-1 any http://t.co/yvsEZYmBQq #Archlinux
+p73
+aVthunderbird-i18n-ru 31.5.0-1 any http://t.co/9vfIAgLzJF #Archlinux
+p74
+aVthunderbird-i18n-en-us 31.5.0-1 any http://t.co/7JHFooLvpq #Archlinux
+p75
+aVthunderbird-i18n-is 31.5.0-1 any http://t.co/go4mvCSgRf #Archlinux
+p76
+aVthunderbird-i18n-el 31.5.0-1 any http://t.co/57ayMWPs0M #Archlinux
+p77
+aVthunderbird-i18n-be 31.5.0-1 any http://t.co/E0WJESZOy4 #Archlinux
+p78
+aVthunderbird-i18n-sr 31.5.0-1 any http://t.co/AAE4budubw #Archlinux
+p79
+aVthunderbird-i18n-zh-cn 31.5.0-1 any http://t.co/wMM2XMEeE2 #Archlinux
+p80
+aVthunderbird-i18n-vi 31.5.0-1 any http://t.co/zPmpc3gm7i #Archlinux
+p81
+aVthunderbird-i18n-hy-am 31.5.0-1 any http://t.co/DheNAyk9z1 #Archlinux
+p82
+aVthunderbird-i18n-pt-pt 31.5.0-1 any http://t.co/OvkWO2C6T3 #Archlinux
+p83
+aVthunderbird-i18n-es-ar 31.5.0-1 any http://t.co/31f19PDHxk #Archlinux
+p84
+aVthunderbird-i18n-sv-se 31.5.0-1 any http://t.co/FHaSOr3NLi #Archlinux
+p85
+aVthunderbird-i18n-hr 31.5.0-1 any http://t.co/9BEtM9w89E #Archlinux
+p86
+aVthunderbird-i18n-fi 31.5.0-1 any http://t.co/cApEeqOn8v #Archlinux
+p87
+aVthunderbird-i18n-sq 31.5.0-1 any http://t.co/8Omml0S60h #Archlinux
+p88
+aVthunderbird-i18n-pt-br 31.5.0-1 any http://t.co/pcVFBVTirg #Archlinux
+p89
+aVthunderbird-i18n-hu 31.5.0-1 any http://t.co/pc37hDKc12 #Archlinux
+p90
+aVthunderbird-i18n-et 31.5.0-1 any http://t.co/A5wGQPHgiy #Archlinux
+p91
+aVthunderbird-i18n-pl 31.5.0-1 any http://t.co/U72eqx3xDi #Archlinux
+p92
+aVthunderbird-i18n-sk 31.5.0-1 any http://t.co/bSAQZ85C7s #Archlinux
+p93
+aVthunderbird-i18n-nn-no 31.5.0-1 any http://t.co/cYwb1KANfA #Archlinux
+p94
+aVWe compared #lubuntu vs #archlinux - see results: http://t.co/jwTvfUDDce
+p95
+aVfirefox 36.0-1 x86_64 http://t.co/EUns6oSwqb #Archlinux
+p96
+aVfirefox 36.0-1 i686 http://t.co/dSPY98BuJF #Archlinux
+p97
+aVfirefox-i18n-zh-cn 36.0-1 any http://t.co/jVS5sJAuQR #Archlinux
+p98
+aVfirefox-i18n-hy-am 36.0-1 any http://t.co/xD3VMm74ly #Archlinux
+p99
+aVfirefox-i18n-az 36.0-1 any http://t.co/xQYkjpBDjZ #Archlinux
+p100
+aVfirefox-i18n-gd 36.0-1 any http://t.co/1hki4cji5l #Archlinux
+p101
+aVfirefox-i18n-an 36.0-1 any http://t.co/LplYbHPjGN #Archlinux
+p102
+aVfirefox-i18n-ko 36.0-1 any http://t.co/cQGZ1dbiAd #Archlinux
+p103
+aVfirefox-i18n-or 36.0-1 any http://t.co/kqSoz1cpc6 #Archlinux
+p104
+aVfirefox-i18n-ca 36.0-1 any http://t.co/LuozIe3jks #Archlinux
+p105
+aVfirefox-i18n-el 36.0-1 any http://t.co/0SYTjDgWA4 #Archlinux
+p106
+aVfirefox-i18n-rm 36.0-1 any http://t.co/qMuGN7yr8T #Archlinux
+p107
+aVfirefox-i18n-ru 36.0-1 any http://t.co/lHcgmB6AYm #Archlinux
+p108
+aVfirefox-i18n-si 36.0-1 any http://t.co/OwV8w6n7o7 #Archlinux
+p109
+a.
